@@ -1,0 +1,17 @@
+{
+  "name" : "kbide-plugin-tgs2611-gas-methane-detection-sensor-module-arduino",
+  "title": "tgs2611-gas-methane-detection-sensor-module-arduino",
+  "keywords": "tgs2611-gas-methane-detection-sensor-module-arduino, esp32, esp8266, arduino",
+  "description": "tgs2611-gas-methane-detection-sensor-module-arduino plugin for KB-IDE",
+  "category":"",
+  "git": "https://github.com/cmmc-kbide/kbide-plugin-tgs2611-gas-methane-detection-sensor-module-arduino/",
+  "author": "cmmakerclub",
+  "email": "",
+  "url": "https://github.com/cmmc-kbide/kbide-plugin-tgs2611-gas-methane-detection-sensor-module-arduino/",
+  "version": "1.0.0",
+  "board" : "",
+  "platform": ["arduino-esp32"],
+  "license": "",
+  "image" : "/static/display.png",
+  "homepage": "http://www.kbide.org"
+}
